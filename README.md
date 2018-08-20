@@ -1,5 +1,7 @@
-Talk by Rebecca Ferrell
+Talk by Rebecca Ferrell - [Dropbox link, 128MB](https://www.dropbox.com/s/jhi6w5n5euul6vf/rstudio-addins.html?dl=0)
+
 RLadies Seattle
+
 August 20, 2018
 
 Featured tools:
