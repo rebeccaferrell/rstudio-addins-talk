@@ -15,4 +15,4 @@ Featured tools:
 * [`questionr`](https://juba.github.io/questionr/index.html)
 * [`addinslist`](https://github.com/daattali/addinslist)
 
-Amateurish GIFs created using [Kap](https://getkap.co/)
+Amateurish GIFs created using [Kap](https://getkap.co/): [GIF album](https://imgur.com/a/DDkRgyj)
